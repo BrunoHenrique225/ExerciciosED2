@@ -1,0 +1,18 @@
+1 - Além do tempo de execução, 
+quais outras medidas de eficiência você poderia precisar considerar em um cenário do mundo real?
+R: 
+
+2 - Selecione uma estrutura de dados que você já tenha visto e discuta suas forças e limitações.
+
+
+3 - Sugira um problema do mundo real em que apenas a melhor solução é aceitável. Em seguida, 
+proponha um em que uma solução aproximada seja boa o suficiente.
+
+
+4 - Descreva um exemplo do mundo real que requer ordenação de elementos.
+
+
+5 - Descreva um problema do mundo real em que todos os dados de entrada estão disponíveis antes de você precisar resolver o problema.
+
+
+6 - Descreva um problema do mundo real em que os dados de entrada não estão inteiramente disponíveis de antemão e chegam ao longo do tempo.
